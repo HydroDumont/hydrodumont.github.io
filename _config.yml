@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Critical Zone Hydrogeophysics"
+title                    : "Critical Zone HydroGeophysics"
 title_separator          : "-"
 name                     : &name "Marc Dumont"
 description              : &description "Exploring Critical Zone geophysics from the air to the roots"
@@ -24,7 +24,7 @@ author:
   avatar           : "MarcDumont.jpg"
   name             : "Marc Dumont"
   pronouns         : "he/him"  
-  bio              : "Critical Zone geophysicist from the air to the roots"
+  bio              : "Critical Zone hydrogeophysicist from the air to the roots"
   university       : "Colorado School of Mines"
   employer         : "https://people.mines.edu/ksingha/"
   uri              : # URL
