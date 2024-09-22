@@ -52,4 +52,4 @@ author_profile: true
 [A1] **Dumont, M.**, Reninger, P.-A., Pryet, A., Martelet, G., Aunay, B., Join, J.-L., **2018**. [Agglomerative hierarchical clustering of airborne electromagnetic data for multiscale geological studies](http://www.sciencedirect.com/science/article/pii/S0926985117301891). Journal of Applied Geophysics.
 
 <!--
-[16] T. Babey, Z. Perzan, S. Pierce, D.B. Rodgers, **L. Wang**, R. Carroll, J.R. Bargar, K. Boye, K. Maher, [Mountainous Floodplain Connectivity in Response to Hydrological Transitions](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024WR037162), Water Resources Research, 2024-->
+in progress-->
