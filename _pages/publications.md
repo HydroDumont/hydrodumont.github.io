@@ -23,7 +23,7 @@ author_profile: true
 
 ### Published
  
-[A12] **Dumont, M.**, Singha, K., **202**4. [Geophysics as a hypothesis-testing tool for critical zone hydrogeology](https://onlinelibrary.wiley.com/doi/abs/10.1002/wat2.1732). WIREs Water.
+[A12] **Dumont, M.**, Singha, K., **2024**. [Geophysics as a hypothesis-testing tool for critical zone hydrogeology](https://onlinelibrary.wiley.com/doi/abs/10.1002/wat2.1732). WIREs Water.
 
 [A11] Baud, B., Lachassagne, P., **Dumont, M.**, Toulier, A., Hendrayana, H., Fadillah, A., Dörfliger, N., **2024**. [Water cycle modelling strengthened by probabilistic integration of field data for groundwater management of a quite unknown tropical volcanic hydrosystem](https://link.springer.com/article/10.1007/s10040-024-02784-0). Hydrogeology Journal.
 
