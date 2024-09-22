@@ -13,7 +13,7 @@ author_profile: true
 
 ## Peer-reviewed journal papers
 
-#### Under review
+### Under review
 
 [15] Dumont, Q., Froger, J.-L., **Dumont, M.**, Gailler, L., Bachèlery, P., Cayol, V., Submitted. Unraveling the Piton de la Fournaise eastern flank structure by reconciling data from multiple geophysical methods. Volcanica.
 
@@ -21,7 +21,7 @@ author_profile: true
 
 [13] Jarecke, K., Zhang, X., Keen, R., **Dumont, M.**, Li, B., Sadayappan, K., Moreno, V., Ajami, H., Billings, S., Flores, A., Hirmas, D., Kirk, M., Li, L., Nippert, J., Singha, K., Sullivan, P., Accepted. Woody encroachment modifies subsurface structure and hydrological function. Ecohydrology.
 
-#### Published
+### Published
  
 [A12] **Dumont, M.**, Singha, K., **202**4. [Geophysics as a hypothesis-testing tool for critical zone hydrogeology](https://onlinelibrary.wiley.com/doi/abs/10.1002/wat2.1732). WIREs Water.
 
