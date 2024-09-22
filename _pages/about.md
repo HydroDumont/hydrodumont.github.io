@@ -3,7 +3,7 @@ As a critical zone scientist, I develop conceptual and numerical hydrological mo
 My current research aims to develop passive and active electrical monitoring to quantify the influence of vegetation on water fluxes within the critical zone. I also create geophysical frameworks to monitor soil-tree hydrological and physiological response to climate change, e.g., drought and wildfire smoke. My research relies on instrumental developments for geophysical monitoring in both field and laboratory experiments to develop hydrogeophysical models.
 
 Education
-======
+------
 Ph.D.: Hydrogeology at University of La Réunion minor in Geophysics [2018]
 M.S.: Hydrogeology, Soil and Environment at University of Avignon [2013]
 B.S.: Earth and Life Science at University of Avignon [2011]
