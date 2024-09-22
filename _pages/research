@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+Critical Zone HydroGeophysics
+======
+
+Vegetation control on water fluxes
+------
+
+Soil-Tree geophysical monitoring
+------
+
+Water security in Volcanic islands
+======
+
+Intricate connection of volcanic processes and hydrology
+======
+
+
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
