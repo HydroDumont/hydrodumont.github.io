@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "MarcDumont.jpg"
   name             : "Marc Dumont"
   pronouns         : "he/him"  
-  bio              : "Critical Zone hydrogeophysicist from the air to the roots"
+  bio              : "Research Associate in hydrogeophysics"
   university       : "Colorado School of Mines"
   employer         : "https://people.mines.edu/ksingha/"
   uri              : # URL
