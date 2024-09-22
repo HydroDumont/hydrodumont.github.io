@@ -19,37 +19,30 @@ redirect_from:
 
 ### Work experience
 
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+2023 - present: **Research Associate** in hydrogeophysics
+:   Colorado School of Mines - *Hydrologic Science and Engineering Program & Geophysics department*
+:   Duties includes: 
+:   Supervisor: [Prof. Kamini Singha](https://geology.mines.edu/project/singha-kamini/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2021 - 2023: **Postdoctoral Researcher** in geophysics
+  University of Liège - *Urban and Environmental Engineering*
+  Duties includes: 
+  Supervisor: [Prof. Frédéric Nguyen](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=U185739)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+2021 - 2023: **Postdoctoral Researcher** in geophysics
+  University of Liège - *Urban and Environmental Engineering*
+  Duties includes: 
+  Supervisor: [Prof. Frédéric Nguyen](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=U185739)
+
+2021 - 2023: **Postdoctoral Researcher** in geophysics
+  University of Liège - *Urban and Environmental Engineering*
+  Duties includes: 
+  Supervisor: [Prof. Frédéric Nguyen](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=U185739)
   
 ### Publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+### Talks
   
-Teaching
-======
-
+### Teaching
   
-Service and leadership
-======
-
+### Service and leadership
