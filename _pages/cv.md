@@ -42,10 +42,11 @@ redirect_from:
 :   University of La Réunion - *UMR LGSR*
 :   Duties includes: 
 
-### Publications
+<!--### Publications
   
 ### Talks
   
 ### Teaching
   
 ### Service and leadership
+-->
