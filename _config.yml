@@ -25,10 +25,9 @@ author:
   name             : "Marc Dumont"
   pronouns         : "he/him"  
   bio              : "Research Associate in hydrogeophysics"
-  location         : "Golden, Colorado"
+  #location         : "Golden, Colorado"
   university       : "Colorado School of Mines"
-  
-  employer         : "https://people.mines.edu/ksingha/"
+  #employer         : "https://people.mines.edu/ksingha/"
   uri              : # URL
   email            : "marc.dumont@mines.edu"
 
