@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
+### Education
+
+* Ph.D in Hydrogeology at University of La Réunion minor in Geophysics [2018]
+* M.S. in Hydrogeology, Soil and Environment at University of Avignon [2013]
+* B.S. in Earth and Life Science at University of Avignon [2011]
+
+
+### Work experience
+
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
@@ -32,17 +34,8 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Publications
 
-Publications
-======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -55,10 +48,8 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
